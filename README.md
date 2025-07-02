@@ -59,7 +59,7 @@
 <br>
 <br>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ghmd2284&theme=dark" alt="ghmd2284" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ghmd2284&theme=dark" alt="GitHub Streak" /></a>
 </p>
 <br>
 <br>
