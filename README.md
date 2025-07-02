@@ -2,7 +2,7 @@
 <h3 align="center">🌱 I’m currently learning Fullstack Development (BackEnd & FrontEnd)</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" alt="Coding" />
 </p>
 
 ---
