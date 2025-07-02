@@ -70,7 +70,7 @@
 <br>
 <br>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghmd2284&theme=dark" alt="GitHub Streak ghmd2284" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghmd2284&theme=dark&locale=id&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 <br>
 <br>
