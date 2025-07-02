@@ -59,7 +59,7 @@
 <br>
 <br>
 <p>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ghmd2284&theme=dark)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghmd2284&theme=dark" alt="GitHub Streak ghmd2284" /></a>
 </p>
 <br>
 <br>
